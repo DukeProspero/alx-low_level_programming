@@ -5,7 +5,7 @@
 * Return: alway returns 0
 *
 */
-int main(void)  
+int main(void)
 {
 char a;
 for (a = 'a'; a <= 'z' ; a++)
