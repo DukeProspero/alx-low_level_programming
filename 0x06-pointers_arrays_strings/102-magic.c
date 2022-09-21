@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main(void)
 {
 int n;
@@ -11,8 +10,8 @@ p = &n;
 /*
 * write your line of code here...
 * Remember:
-* - you are not allowed to use a
-* - you are not allowed to modify p
+* - you are now allowed to use a
+* - you are not allowed to modify
 * - only one statement
 * - you are not allowed to code anything else than this line of code
 */
